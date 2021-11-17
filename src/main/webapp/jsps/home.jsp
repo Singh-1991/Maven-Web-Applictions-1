@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Prodapt Solutions Pvt Ltd- Home Page</title>
+<title>BSKS IT Solutions Pvt Ltd- Home Page</title>
 <link href="images/prodapt.jpg" rel="icon">
 </head>
 </head>
