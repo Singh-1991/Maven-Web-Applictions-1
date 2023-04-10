@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>BSKS IT Solutions Pvt Ltd- Home Page</title>
+<title>SinghTechnoLogics Solutions Pvt Ltd- Home Page</title>
 <link href="images/prodapt.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Techacademics Solutions.</h1>
+<h1 align="center">Welcome to SinghTechnoLogics Solutions.</h1>
 <h2 align="center">IT Services </h2>
 <hr>
 <div style="text-align: center;">
@@ -17,12 +17,13 @@
 		<img src="images/prodapt.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-          	Prodapt Solutions Pvt Ltd, 
-		Economic Zone, Thoraipakkam,
-		chennai.
-		+91-9866430409,
+          	SinghTechnoLogics Solutions Pvt Ltd, 
+		Manyatha Tech Park,
+		Nagavara,
+		Bangalore.
+		+91-9441685894,
 		<br>
-		<a href="mailto:madhusudhanachari.a@prodapt.com">Mail to Prodapt Solutions</a>
+		<a href="mailto:sivakumarsingh.balaji@gmail.com">Mail to SinghTechnoLogics Solutions</a>
 	</span>
 </div>
 <hr>
