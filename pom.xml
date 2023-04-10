@@ -23,7 +23,9 @@
                 <log4j.version>1.2.17</log4j.version>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
+		<sonar.host.url>http://43.205.139.176:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>singh</sonar.password>
         </properties>
 
         <dependencies>
@@ -97,7 +99,7 @@
 	      <url>http://3.7.70.234:8081/repository/maven-web-applications-1-snapshot/</url>
 	    </snapshotRepository>
        </distributionManagement>    
-        <build>
+         <build>
                 <finalName>maven-web-application</finalName>
 
                 <plugins>
